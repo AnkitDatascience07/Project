@@ -58,6 +58,3 @@ This project performs comprehensive **Exploratory Data Analysis (EDA)** and **RF
 - Purchase behavior patterns
 - Geographic analysis of customers
 
-## 🚀 How to Run the Project
-
-### Prerequisites
